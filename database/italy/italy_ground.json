@@ -1039,6 +1039,19 @@
           "class_name": "",
           "details": true,
           "main_role": "SPAA"
+        },
+        {
+          "type": "single",
+          "title": "◔ZSU-23-4V",
+          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_zsu_23_4.png",
+          "br": "8.0",
+          "rp": "135,000",
+          "sp": "380,000",
+          "data_unit_id": "it_zsu_23_4",
+          "selected": false,
+          "class_name": "",
+          "details": true,
+          "main_role": "SPAA"
         }
       ],
       [],
@@ -1206,12 +1219,12 @@
       [
         {
           "type": "single",
-          "title": "◔ZSU-23-4V",
-          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_zsu_23_4.png",
-          "br": "8.0",
-          "rp": "135,000",
-          "sp": "380,000",
-          "data_unit_id": "it_zsu_23_4",
+          "title": "SIDAM 25",
+          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_otobreda_sidam_25.png",
+          "br": "8.3",
+          "rp": "160,000",
+          "sp": "450,000",
+          "data_unit_id": "it_otobreda_sidam_25",
           "selected": false,
           "class_name": "",
           "details": true,
@@ -1219,12 +1232,12 @@
         },
         {
           "type": "single",
-          "title": "SIDAM 25",
-          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_otobreda_sidam_25.png",
-          "br": "8.3",
-          "rp": "160,000",
-          "sp": "450,000",
-          "data_unit_id": "it_otobreda_sidam_25",
+          "title": "SIDAM 25 (Mistral)",
+          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_otobreda_sidam_25_mistral.png",
+          "br": "9.7",
+          "rp": "220,000",
+          "sp": "620,000",
+          "data_unit_id": "it_otobreda_sidam_25_mistral",
           "selected": false,
           "class_name": "",
           "details": true,
@@ -1277,6 +1290,19 @@
     ],
     "premium_vehicles": [
       [
+        {
+          "type": "single",
+          "title": "C13/TUA",
+          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_c13_tua.png",
+          "br": "8.3",
+          "rp": "400,000",
+          "sp": "470,000",
+          "data_unit_id": "it_c13_tua",
+          "selected": false,
+          "class_name": "squad",
+          "details": true,
+          "main_role": "Tank destroyer"
+        },
         {
           "type": "single",
           "title": "OF-40 (MTCA)",
@@ -1381,19 +1407,6 @@
         }
       ],
       [
-        {
-          "type": "single",
-          "title": "SIDAM 25 (Mistral)",
-          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_otobreda_sidam_25_mistral.png",
-          "br": "9.7",
-          "rp": "220,000",
-          "sp": "620,000",
-          "data_unit_id": "it_otobreda_sidam_25_mistral",
-          "selected": false,
-          "class_name": "",
-          "details": true,
-          "main_role": "SPAA"
-        },
         {
           "type": "multiple",
           "title": "Osa/Strela",
@@ -1585,7 +1598,7 @@
         {
           "type": "multiple",
           "title": "FSAF SAMP/T",
-          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/germ_iris_slm_group.png",
+          "vehicle_icon": "https://static.encyclopedia.warthunder.com/slots/it_samp_t_fcs.png",
           "selected": false,
           "br": "12.7",
           "data_unit_id": "it_samp_t_fcs",
